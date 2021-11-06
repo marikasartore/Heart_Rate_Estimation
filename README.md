@@ -39,7 +39,7 @@ All .txt files give 16 columns index, in particular:
 * MagnX, MagnY, MagnZ are the measured magnitude of magnetic field along each axis.
 * qw, qi, qj, qk are the quaternion components, representing the spatial orientation of the Muse system.
 
-Each dataset includes, in addition to the data, one file containing the adopted configuration of the MuSe(**README1.txt** for the first measurement, and in **README_5.txt** for the other measurement).
+Each dataset includes, in addition to the data, one file containing the adopted configuration of the MuSe(**SCG_measurement_details.txt** for the first measurement, and in **RBCG_measurement_details.txt** for the other measurement).
  
 
 
